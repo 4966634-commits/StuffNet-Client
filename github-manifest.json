@@ -1,0 +1,37 @@
+﻿{
+    "updated_at":  "2026-08-19T21:55:33Z",
+    "release_tag":  "v1.0.0",
+    "repo":  "4966634-commits/StuffNet-Client",
+    "launcher_version":  "0.9.0",
+    "minecraft_version":  "1.21.1",
+    "assets":  [
+                   {
+                       "name":  "StuffNet-client-mods-wymagane-1.21.1.zip",
+                       "kind":  "mods_required",
+                       "sha256":  "a17ab4f5e39f175ad3a048a1ffc1df70e2359e3c1a4d4b80d1582e66f48da146",
+                       "size":  20133616,
+                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNet-client-mods-wymagane-1.21.1.zip"
+                   },
+                   {
+                       "name":  "StuffNet-client-mods-universalne-1.21.1.zip",
+                       "kind":  "mods_universal",
+                       "sha256":  "2588c0ca943f836943b6518a80139806a836ac98d48d945f44fd735211ddf5fd",
+                       "size":  50897572,
+                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNet-client-mods-universalne-1.21.1.zip"
+                   },
+                   {
+                       "name":  "StuffNet-jre21-windows-x64.zip",
+                       "kind":  "jre",
+                       "sha256":  "9bb343cc93f495f110e64e2e024840d612f93692b3002eef256333e0cf6fd26b",
+                       "size":  48832746,
+                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNet-jre21-windows-x64.zip"
+                   },
+                   {
+                       "name":  "StuffNetLauncher-0.9.0.exe",
+                       "kind":  "launcher",
+                       "sha256":  "1d78601f59bc5ec3b45b7bdfed3c0031da5f97572f5bd703a13040847e918a93",
+                       "size":  12621124,
+                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher-0.9.0.exe"
+                   }
+               ]
+}
