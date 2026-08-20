@@ -1,5 +1,5 @@
 ﻿{
-    "updated_at":  "2026-08-20T05:57:33Z",
+    "updated_at":  "2026-08-20T05:58:35Z",
     "release_tag":  "v1.0.0",
     "repo":  "4966634-commits/StuffNet-Client",
     "launcher_version":  "0.9.2",
@@ -8,8 +8,8 @@
                    {
                        "name":  "StuffNet-client-mods-wymagane-1.21.1.zip",
                        "kind":  "mods_required",
-                       "sha256":  "a17ab4f5e39f175ad3a048a1ffc1df70e2359e3c1a4d4b80d1582e66f48da146",
-                       "size":  20133616,
+                       "sha256":  "6969b0b9597add5b241ec80f74798a4cb680688192133bb98ee8847db930c490",
+                       "size":  20131801,
                        "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNet-client-mods-wymagane-1.21.1.zip"
                    },
                    {
