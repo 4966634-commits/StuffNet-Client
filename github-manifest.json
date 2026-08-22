@@ -1,5 +1,5 @@
 ﻿{
-    "updated_at":  "2026-08-22T06:00:45Z",
+    "updated_at":  "2026-08-22T06:01:06Z",
     "release_tag":  "v1.0.0",
     "repo":  "4966634-commits/StuffNet-Client",
     "launcher_version":  "0.9.2",
@@ -35,11 +35,11 @@
                        "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher-0.9.2.exe"
                    },
                    {
-                       "name":  "StuffNetLauncher_Player-1.0.2.exe",
+                       "name":  "StuffNetLauncher_Player-1.0.3.exe",
                        "kind":  "launcher_player",
-                       "sha256":  "9c4d0ed49e7db55a2ba09fc7ccb5496074d26d2d1e31a64bec6e4bf3ccc9b44e",
-                       "size":  13797944,
-                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher_Player-1.0.2.exe"
+                       "sha256":  "f3456e039228a1f88a2949a7be957650c7d841bbf6f54ec0979e64eabfeb90b7",
+                       "size":  13808680,
+                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher_Player-1.0.3.exe"
                    }
                ]
 }
