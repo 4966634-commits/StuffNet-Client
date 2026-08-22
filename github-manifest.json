@@ -1,9 +1,9 @@
 ﻿{
-    "updated_at":  "2026-08-22T06:34:31Z",
+    "updated_at":  "2026-08-22T06:44:30Z",
     "release_tag":  "v1.0.0",
     "repo":  "4966634-commits/StuffNet-Client",
     "launcher_version":  "0.9.2",
-    "launcher_player_version":  "1.0.6",
+    "launcher_player_version":  "1.0.7",
     "minecraft_version":  "1.21.1",
     "assets":  [
                    {
@@ -35,11 +35,11 @@
                        "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher-0.9.2.exe"
                    },
                    {
-                       "name":  "StuffNetLauncher_Player-1.0.6.exe",
+                       "name":  "StuffNetLauncher_Player-1.0.7.exe",
                        "kind":  "launcher_player",
-                       "sha256":  "550575442eefb3957b1697803983b5eb8c679369cd8e79f9a0a810f19deeea34",
-                       "size":  13828266,
-                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher_Player-1.0.6.exe"
+                       "sha256":  "6cea286f776fcebc5e51d280cebb194fb1d6cb5817b7a077700ec84675e5a8fa",
+                       "size":  13829097,
+                       "url":  "https://github.com/4966634-commits/StuffNet-Client/releases/download/v1.0.0/StuffNetLauncher_Player-1.0.7.exe"
                    }
                ]
 }
